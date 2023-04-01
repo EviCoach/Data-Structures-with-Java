@@ -20,7 +20,7 @@ Specifying what an object can do, without specifying how it does it is an abstra
 Concealing the implementation of a method from the clients who use the method is called information hiding.
 
 ### Abstract Data Type
-An *Abstract Data Type* is a specification of the behaviour of only the instances of that type.
+An *Abstract Data Type* is a specification of only the behaviour of instances of that type.
 
 ### Classes And Objects
 Classes are concrete data types that specify how their state is stored,
