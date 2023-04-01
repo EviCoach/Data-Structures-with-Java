@@ -1,0 +1,5 @@
+An object is a software unit that is produced according to a unique class specification.
+It is called an instance of its class.
+The process of creating it is called instantiating the class.
+
+
