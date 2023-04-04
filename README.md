@@ -39,4 +39,6 @@ A class may have six kinds of *members*
 The purpose of a declaration is to introduce an identifier to the compiler.
 It provides all the information the compiler needs in order to compile statements that uses that identifier.
 
+A *field* is a variable that holds data for the object.
+
 

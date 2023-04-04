@@ -11,7 +11,6 @@ The fields hold the data for class objects
 The methods hold the statements that are executed by the object
 The constructor holds the code that initializes the object's fields
 
-
 Specifying what an object can do, without specifying how it does it is an abstraction.
 
 Concealing the implementation of a method from the clients who use the method is called information hiding.
