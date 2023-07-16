@@ -1,4 +1,4 @@
-package main.java.com.dsa.book.chpt_one.association;
+package com.dsa.book.chpt_one.association;
 
 public class Person {
     private final String name;

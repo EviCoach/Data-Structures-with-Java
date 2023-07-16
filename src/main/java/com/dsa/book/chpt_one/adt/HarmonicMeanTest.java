@@ -1,10 +1,6 @@
-package main.java.com.dsa.book.chpt_one.adt;
+package com.dsa.book.chpt_one.adt;
 
-public class HarmonicMean {
-    public static void main(){
-        
-    }
-
+public class HarmonicMeanTest {
     public Fraction harmonicMean(Fraction x, Fraction y){
         return x.reciprocal().plus(y.reciprocal()).reciprocal().times(2);
     }

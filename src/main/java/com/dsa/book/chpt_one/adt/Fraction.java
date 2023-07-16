@@ -1,4 +1,4 @@
-package main.java.com.dsa.book.chpt_one.adt;
+package com.dsa.book.chpt_one.adt;
 
 public interface Fraction {
     Fraction plus(Fraction fraction);
